@@ -1,0 +1,1 @@
+alert('Teste do Javascript realizado com sucesso!');
